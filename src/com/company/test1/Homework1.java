@@ -7,10 +7,11 @@ public class Homework1
         task1();
     }
 
-    private static void task1()
+    public static void task1()
     {
         int x = 1;
-        System.out.print("LOL");
-        System.out.print(x);
+
+        System.out.println("LOL");
+        System.out.println(x);
     }
 }
